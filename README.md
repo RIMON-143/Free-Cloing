@@ -2,20 +2,22 @@
 
 # Installation
 
-💛 Facebook Random Id Cloing
+🔥 Facebook Random Id Cloing 🔥
 
-💚 pkg install update
+ pkg install update
 
-💚 pkg install python
+ pkg install python
 
-💚 pkg install git
+ pkg install git
 
-💚 pkg install bs4
+ pkg install bs4
 
-💚 pkg install rich
+ pkg install rich
 
-💚 git clone https://github.com/R1M0N-Ahmed/Free-Cloing
+ git clone https://github.com/R1M0N-Ahmed/Free-Cloing
 
-💚 cd Free-Cloing
+ cd Free-Cloing
 
-💚 python fuck-baby.py 
+ git pull
+
+ python fuck-baby.py 
